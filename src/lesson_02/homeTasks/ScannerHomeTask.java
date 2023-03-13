@@ -1,5 +1,7 @@
 package lesson_02.homeTasks;
+
 import java.util.Scanner;
+
 public class ScannerHomeTask {
     public static void main(String[] args) {
 
