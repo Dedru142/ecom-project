@@ -9,7 +9,7 @@ public class ComparisonTask {
         System.out.println(35 + " <= " + 50 + " " +  (35<=50));
         System.out.println(25 + " == " + 25 + " " +  (25==25));
         System.out.println(50 + " != " + 50 + " " +  (50!=50));
-        System.out.println("City" + " == " + "City" + " " +  ("City"=="City"));
+        System.out.println("City" + " == " + "City" + " " +  ("City".equals("City")));
         System.out.println("citY" + " == " + "City" + " " +  ("citY".equalsIgnoreCase("City")));
 
     }
