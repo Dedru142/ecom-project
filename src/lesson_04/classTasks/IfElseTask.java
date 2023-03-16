@@ -9,7 +9,7 @@ public class IfElseTask {
         System.out.println("input a number");
         int number = scanner.nextInt();
 
-        if ((number % 2 == 0)) {
+        if (number % 2 == 0) {
             System.out.println("the number " + number + " is even!");
         } else {
             System.out.println("the number " + number + " is odd!");
