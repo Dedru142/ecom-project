@@ -13,8 +13,6 @@ public class WhileLoopTask {
                     continue;
                 }
                 System.out.println(i);
-                i++;
-                continue;
             }
             if (i == 100){
                 System.out.println("summary = " + summary);
