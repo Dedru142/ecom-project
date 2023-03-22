@@ -19,11 +19,11 @@ public class CountriesTask {
 
         System.out.println("============= For-Each =============");
         for (String country:countries) {
-            System.out.println(country + " ");
+            System.out.println(country);
         }
 
         System.out.println();
         System.out.println("============= forEach =============");
-        countries.forEach((country) -> System.out.println(country + " "));
+        countries.forEach((country) -> System.out.println(country));
             }
 }
