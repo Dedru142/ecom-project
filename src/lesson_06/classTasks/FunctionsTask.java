@@ -1,6 +1,5 @@
 package lesson_06.classTasks;
 
-import java.sql.Array;
 import java.util.ArrayList;
 
 public class FunctionsTask {
